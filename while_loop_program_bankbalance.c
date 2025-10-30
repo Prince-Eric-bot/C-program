@@ -1,7 +1,7 @@
 /*
 Name: Erick Mburu
 Reg:PA106/G/28729/25
-Desc:a C programme that uses for loop to print all numbers from 100 to 50 in a descending
+Desc:a C programme checks for bank balnce
 */
 
 #include <stdio.h>
@@ -28,3 +28,4 @@ int main(){
 	return 0;
 	
 }
+
