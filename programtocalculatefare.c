@@ -1,7 +1,7 @@
 /*
 NAME:Erick Mburu
 REG NO:PA106/G/28729/25
-DEFINITION:A programto calculate fare
+DEFINITION:A program to calculate fare
 */
 
 #include<stdio.h>
