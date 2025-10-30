@@ -6,13 +6,11 @@ DESCRIPTION:A C function to convert to celcius
 
 #include<stdio.h>
 
-//function prototype
 float convert_to_celcius(int F);
 
 int main(){
 	int  F;
 	
-	//function call
 	printf("Enter temperature in Fahrenheit:");
 	scanf("%d", &F);
 	
@@ -20,7 +18,6 @@ int main(){
 	
 	return 0;
 }
-//function definition
 float convert_to_celcius(int F){
 	int C;
 	
